@@ -1,6 +1,6 @@
 # git
 
-git es una herramienta para la gestion de versiones de archivos. Esto quiere decir que nos facilita el versionado de nuestros archivos, permitiéndonos entre otras cosas:
+DEFG git es una herramienta para la gestion de versiones de archivos. Esto quiere decir que nos facilita el versionado de nuestros archivos, permitiéndonos entre otras cosas:
 
  1. entender cual es la última versión de un archivo
  2. entender cual fue la cadena de modificaciones que le fuimos haciendo a lo largo del tiempo
